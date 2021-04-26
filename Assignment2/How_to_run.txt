@@ -1,0 +1,6 @@
+In order to run the file:
+
+Compilation : javac Bank.java
+Execution : java Bank
+
+Please enter the number of transactions per updater when prompted.

@@ -1,0 +1,6 @@
+The time taken by the program to execute transactions are as follows:
+
+10^3 transactions per updater : 1 second
+10^4 transactions per updater : 11 seconds 
+10^5 transactions per updater : 80 seconds
+
